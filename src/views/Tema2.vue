@@ -49,10 +49,144 @@
 
           p.text-center Se refiere a proyectos o acciones que involucran la modificación de las condiciones biológicas y geográficas de un área determinada. Estas modificaciones pueden ser el resultado de actividades como la extracción de recursos naturales, la urbanización, la construcción de infraestructuras, la agricultura u otras acciones que afectan la disposición y el uso de la tierra. La ocupación del territorio puede tener un impacto significativo en el entorno natural, incluyendo la pérdida de hábitats, la fragmentación de paisajes, la degradación del suelo y la alteración de ecosistemas. 
 
-    p.my-4(style="overflow-x: hidden !important") Dentro de los impactos ambientales, se pueden encontrar distintas clasificaciones de acuerdo con diversas propiedades o características, como se muestra a continuación:
+    p.my-5(style="overflow-x: hidden !important") Dentro de los impactos ambientales, se pueden encontrar distintas clasificaciones de acuerdo con diversas propiedades o características, como se muestra a continuación:
 
+    SlyderF(columnas="col-lg-6 col-xl-4")
+      .tarjeta.color-secundario.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/2/2.svg' alt='AvatarTop')
+        h2.text-center Temporal o permanente
+        p.text-center Son por un período de tiempo determinado.
 
+      .tarjeta.color-secundario.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/2/3.svg' alt='AvatarTop')
+        h2.text-center Reversible o irreversible
+        p.text-center Dependen de qué tan factible es retornar a las condiciones originales.
 
+      .tarjeta.color-secundario.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/2/4.svg' alt='AvatarTop')
+        h2.text-center Continuo o periódico
+        p.text-center Dependerá del período en que se exteriorice.
+
+      .tarjeta.color-secundario.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/2/5.svg' alt='AvatarTop')
+        h2.text-center Positivo o negativo
+        p.text-center De acuerdo con los efectos resultantes sobre el medio ambiente. 
+
+      .tarjeta.color-secundario.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/2/6.svg' alt='AvatarTop')
+        h2.text-center Directo o indirecto
+        p.text-center Cuando el impacto es producido por una acción específica del proyecto.
+
+      .tarjeta.color-secundario.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/2/7.svg' alt='AvatarTop')
+        h2.text-center Acumulativo
+        p.text-center Es el resultado de la adición de impactos ambientales que ocurrieron previamente y que aún están ocurriendo.
+
+      .tarjeta.color-secundario.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/2/8.svg' alt='AvatarTop')
+        h2.text-center Sinérgico
+        p.text-center Se produce cuando la aglomeración de impactos tiene una incidencia mayor que cuando se suman individualmente.
+
+      .tarjeta.color-secundario.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/2/9.svg' alt='AvatarTop')
+        h2.text-center Residual
+        p.text-center Persiste después de la implementación de medidas de mitigación.
+
+    p.my-5(style="overflow-x: hidden !important") Para identificar los impactos ambientales, es esencial comprender cómo un proyecto o actividad afectará el medio ambiente y qué medidas se pueden tomar para prevenir o mitigar los impactos negativos. Los pasos necesarios para esta identificación son los siguientes:
+
+    LineaTiempoC.color-acento-botones.p-4(style="background-color: #DBF9BD; border-radius: 10px;" text-small)
+
+      .row.align-items-center(titulo="1")
+        .col-1
+        .col-md-3
+          figure
+            img(src='@/assets/curso/temas/2/10.svg', alt='Texto que describa la imagen' style="max-width: 250px")
+        .col-md-6.mb-4.mb-md-0
+          b Definir los objetivos del proyecto <br><br>
+          p Establecer claramente los objetivos específicos del proyecto o actividad.
+
+      .row.align-items-center(titulo="2")
+        .col-1
+        .col-md-3
+          figure
+            img(src='@/assets/curso/temas/2/11.svg', alt='Texto que describa la imagen' style="max-width: 250px")
+        .col-md-6.mb-4.mb-md-0
+          b Realizar un análisis de las posibilidades expertas <br><br>
+          p Consultar a expertos y profesionales relevantes que puedan aportar su conocimiento en relación con el proyecto.
+
+      .row.align-items-center(titulo="3")
+        .col-1
+        .col-md-3
+          figure
+            img(src='@/assets/curso/temas/2/12.svg', alt='Texto que describa la imagen' style="max-width: 250px")
+        .col-md-6.mb-4.mb-md-0
+          b Declarar las acciones propuestas y alternativas <br><br>          
+          p Identificar las acciones propuestas y considerar posibles alternativas para el proyecto. Esto incluye evaluar los impactos ambientales potenciales de cada alternativa.
+
+      .row.align-items-center(titulo="4")
+        .col-1
+        .col-md-3
+          figure
+            img(src='@/assets/curso/temas/2/13.svg', alt='Texto que describa la imagen' style="max-width: 250px")
+        .col-md-6.mb-4.mb-md-0
+          b Caracterizar las condiciones previas al proyecto <br><br>          
+          p Obtener una comprensión sólida de las condiciones ambientales en el área antes de que el proyecto se lleve a cabo. Esto servirá como línea de base para la evaluación de los impactos.
+
+      .row.align-items-center(titulo="5")
+        .col-1
+        .col-md-3
+          figure
+            img(src='@/assets/curso/temas/2/14.svg', alt='Texto que describa la imagen' style="max-width: 250px")
+        .col-md-6.mb-4.mb-md-0
+          b Análisis de costos y beneficios <br><br>          
+          p Evaluar los costos y beneficios asociados con el proyecto, tanto desde una perspectiva económica como ambiental.
+
+      .row.align-items-center(titulo="6")
+        .col-1
+        .col-md-3
+          figure
+            img(src='@/assets/curso/temas/2/15.svg', alt='Texto que describa la imagen' style="max-width: 250px")
+        .col-md-6.mb-4.mb-md-0
+          b Análisis de impactos ambientales<br><br>          
+          p Identificar y analizar los posibles impactos ambientales que surgirían de la implementación del proyecto.
+
+      .row.align-items-center(titulo="7")
+        .col-1
+        .col-md-3
+          figure
+            img(src='@/assets/curso/temas/2/16.svg', alt='Texto que describa la imagen' style="max-width: 250px")
+        .col-md-6.mb-4.mb-md-0
+          b Evaluación de impactos <br><br>          
+          p Evaluar la magnitud y la importancia de los impactos ambientales identificados en el paso anterior.
+
+      .row.align-items-center(titulo="8")
+        .col-1
+        .col-md-3
+          figure
+            img(src='@/assets/curso/temas/2/17.svg', alt='Texto que describa la imagen' style="max-width: 250px")
+        .col-md-6.mb-4.mb-md-0
+          b Elaborar un resumen y recomendaciones <br><br>          
+          p resumir los resultados del proceso de evaluación de impactos y proporcionar recomendaciones sobre cómo mitigar, prevenir o compensar los impactos negativos.                        
+      
+     
+
+      
 
 
 </template>
