@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="505" height="728.801" viewBox="0 0 505 728.801">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#defff8"/>
+      <stop offset="0.803" stop-color="#eaf5ff"/>
+      <stop offset="1" stop-color="#f0feff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_1075436" data-name="Grupo 1075436" transform="translate(6745 10562)">
+    <g id="Grupo_1073936" data-name="Grupo 1073936" transform="translate(-16 62)">
+      <g id="Grupo_1072963" data-name="Grupo 1072963" transform="translate(-6224 -9637.489) rotate(180)">
+        <rect id="Rectángulo_376022" data-name="Rectángulo 376022" width="505" height="728.801" transform="translate(0 257.71)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Grupo_1073935" data-name="Grupo 1073935" transform="translate(0 -3)">
+        <rect id="Rectángulo_378209" data-name="Rectángulo 378209" width="383" height="84" rx="12" transform="translate(-6627 -10582)" fill="#ffdfcc"/>
+        <rect id="Rectángulo_378222" data-name="Rectángulo 378222" width="383" height="84" rx="12" transform="translate(-6627 -10476)" fill="#ffdfcc"/>
+        <rect id="Rectángulo_378224" data-name="Rectángulo 378224" width="383" height="98" rx="12" transform="translate(-6627 -10371)" fill="#ffdfcc"/>
+        <rect id="Rectángulo_378226" data-name="Rectángulo 378226" width="383" height="105" rx="12" transform="translate(-6627 -10248)" fill="#ffdfcc"/>
+        <rect id="Rectángulo_378228" data-name="Rectángulo 378228" width="383" height="84" rx="12" transform="translate(-6627 -10126)" fill="#ffdfcc"/>
+        <rect id="Rectángulo_378230" data-name="Rectángulo 378230" width="383" height="84" rx="12" transform="translate(-6627 -10021)" fill="#ffdfcc"/>
+        <rect id="Rectángulo_378208" data-name="Rectángulo 378208" width="104" height="96" rx="12" transform="translate(-6708 -10588)" fill="#c1e29a"/>
+        <rect id="Rectángulo_378221" data-name="Rectángulo 378221" width="104" height="96" rx="12" transform="translate(-6708 -10482)" fill="#c1e29a"/>
+        <rect id="Rectángulo_378223" data-name="Rectángulo 378223" width="104" height="110" rx="12" transform="translate(-6708 -10377)" fill="#c1e29a"/>
+        <rect id="Rectángulo_378225" data-name="Rectángulo 378225" width="104" height="111" rx="12" transform="translate(-6708 -10253)" fill="#c1e29a"/>
+        <rect id="Rectángulo_378227" data-name="Rectángulo 378227" width="104" height="96" rx="12" transform="translate(-6708 -10132)" fill="#c1e29a"/>
+        <rect id="Rectángulo_378229" data-name="Rectángulo 378229" width="104" height="96" rx="12" transform="translate(-6708 -10027)" fill="#c1e29a"/>
+        <text id="Emisiones" transform="translate(-6656 -10534)" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-37.223" y="0">Emisiones</tspan></text>
+        <text id="Residuos_peligrosos" data-name="Residuos 
+peligrosos" transform="translate(-6656 -10437)" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-35.277" y="0">Residuos </tspan><tspan x="-37.688" y="18">peligrosos</tspan></text>
+        <text id="Residuos_inertes" data-name="Residuos
+inertes" transform="translate(-6656 -10325)" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-33.285" y="0">Residuos</tspan><tspan x="-25.18" y="18">inertes</tspan></text>
+        <text id="Vertidos_de_agua" data-name="Vertidos
+de agua" transform="translate(-6686 -10208)" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Vertidos</tspan><tspan x="0" y="18">de agua</tspan></text>
+        <text id="Consumo_de_energía" data-name="Consumo 
+de energía" transform="translate(-6694 -10093)" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Consumo </tspan><tspan x="0" y="18">de energía</tspan></text>
+        <text id="Consumo_de_agua" data-name="Consumo
+de agua" transform="translate(-6690 -9982)" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Consumo</tspan><tspan x="0" y="18">de agua</tspan></text>
+        <text id="Contaminación_generada_por_la_emisión_mezcla_o_acumulación_de_contaminantes_a_la_atmósfera_provenientes_de_fuentes_naturales_o_antropogénicas._" data-name="Contaminación generada por la emisión, mezcla o acumulación de contaminantes a la atmósfera, provenientes de fuentes naturales o antropogénicas.
+" transform="translate(-6593 -10576)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Contaminación generada por la emisión, </tspan><tspan x="0" y="33">mezcla o acumulación de contaminantes a la </tspan><tspan x="0" y="51">atmósfera, provenientes de fuentes naturales </tspan><tspan x="0" y="69">o antropogénicas.</tspan></text>
+        <text id="Residuos_no_reciclables_que_presentan_peligro_por_tener_propiedades_que_puedan_generar_riesgos_para_la_salud_y_el_medio_ambiente._" data-name="Residuos no reciclables que presentan peligro por tener propiedades que puedan generar riesgos para la salud y el medio ambiente.
+" transform="translate(-6593 -10464)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Residuos no reciclables que presentan peligro </tspan><tspan x="0" y="33">por tener propiedades que puedan generar </tspan><tspan x="0" y="51">riesgos para la salud y el medio ambiente.</tspan></text>
+        <text id="Son_materiales_de_desecho_que_no_experimentan_procesos_significativos_de_descomposición_reacción_química_o_biológica_en_el_medio_ambiente_durante_un_período_de_tiempo_razonable." data-name="Son materiales de desecho que no experimentan procesos significativos de descomposición, reacción química o biológica en el medio ambiente durante un período de tiempo razonable." transform="translate(-6593 -10368)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Son materiales de desecho que no </tspan><tspan x="0" y="33">experimentan procesos significativos de </tspan><tspan x="0" y="51">descomposición, reacción química o biológica </tspan><tspan x="0" y="69">en el medio ambiente durante un período de </tspan><tspan x="0" y="87">tiempo razonable.</tspan></text>
+        <text id="Liberación_o_descarga_de_agua_en_el_medio_ambiente_ya_sea_de_manera_planificada_como_parte_de_un_proceso_industrial_o_de_manera_no_planificada_como_la_descarga_de_aguas_residuales_o_contaminadas._" data-name="Liberación o descarga de agua en el medio ambiente, ya sea de manera planificada como parte de un proceso industrial o de manera no planificada, como la descarga de aguas residuales o contaminadas.
+" transform="translate(-6593 -10239)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Liberación o descarga de agua en el medio </tspan><tspan x="0" y="33">ambiente, ya sea de manera planificada como </tspan><tspan x="0" y="51">parte de un proceso industrial o de manera no </tspan><tspan x="0" y="69">planificada, como la descarga de aguas </tspan><tspan x="0" y="87">residuales o contaminadas.</tspan></text>
+        <text id="Cantidad_de_energía_que_se_utiliza_en_diversas_actividades_humanas._" data-name="Cantidad de energía que se utiliza en diversas actividades humanas.
+" transform="translate(-6593 -10101)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Cantidad de energía que se utiliza en diversas </tspan><tspan x="0" y="33">actividades humanas.</tspan></text>
+        <text id="Cantidad_de_agua_que_se_utiliza_en_diversas_actividades_humanas._" data-name="Cantidad de agua que se utiliza en diversas actividades humanas.
+" transform="translate(-6593 -9997)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Cantidad de agua que se utiliza en diversas </tspan><tspan x="0" y="33">actividades humanas.</tspan><tspan x="0" y="51"></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
