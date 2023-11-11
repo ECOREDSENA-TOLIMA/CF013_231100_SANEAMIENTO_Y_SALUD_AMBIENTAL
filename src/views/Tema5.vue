@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 3
+        span 5
       h1 Educación ambiental
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
