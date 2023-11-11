@@ -107,7 +107,7 @@
            
     Separador.mt-5  
 
-    .cont_2_1(style="position:relative;")
+    .cont_3_1(style="position:relative;")
       .titulo-segundo.color-acento-contenido(style="position:relative")
         h2#t_3_1 3.1 Recursos naturales      
     
@@ -115,17 +115,102 @@
       .col-lg-12
         .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-4
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/3/2.svg')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/temas/3/2.png')})`}"
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 Los recursos naturales son la columna vertebral de nuestro planeta, ya que proveen los componentes esenciales para mantener la vida en la Tierra. Desde la energía que nos brinda calor y luz hasta los alimentos que sustentan nuestras vidas, estos recursos son la base de la existencia humana. Van desde el sol radiante y el aire limpio hasta los minerales y las materias primas enterradas en la tierra. Sin embargo, en un mundo donde la demanda crece sin cesar y la explotación excesiva amenaza su sostenibilidad, la gestión responsable de estos recursos se ha convertido en una preocupación crítica. Los recursos naturales se dividen en dos categorías principales según su origen y su capacidad de regeneración:
 
+    p.py-3 Se deben establecer las relaciones de causa y efecto entre aspectos y sus impactos, ya que esto ayuda a identificar cuáles son significativos y, por lo tanto, requieren atención y gestión prioritaria. La identificación de aspectos ambientales significativos y sus impactos asociados es fundamental para la toma de decisiones y la planificación de acciones de gestión ambiental.
 
+    .tarjeta--container.row.mb-5
+      .col-md.tarjeta.color-primario.p-5
+        .row.justify-content-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/temas/3/3.svg', alt='')
+          
+        h2.text-center Renovables
+        p Son aquellos que se encuentran disponibles de manera constante, ya que se generan a una velocidad superior a la que se consumen. Esto significa que, a pesar de su explotación y uso, estos recursos no se agotan fácilmente. Sin embargo, es importante destacar que, si la tasa de utilización supera significativamente la tasa de generación, estos recursos podrían estar en peligro de agotarse en el futuro.
+        p Por ejemplo: agua, viento, radiación solar, madera, biocombustibles. 
+      .col-md.tarjeta.color-secundario.p-5
+        .row.justify-content-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/temas/3/11.svg', alt='')
+          
+        h2.text-center No renovables
+        p Son elementos de la naturaleza que se encuentran en cantidades limitadas y cuyo ciclo de renovación es extremadamente lento en comparación con las tasas de extracción y explotación. A diferencia de los recursos renovables, estos no pueden ser producidos por el ser humano y, una vez agotados, no pueden ser fácilmente reemplazados en un plazo de tiempo humano razonable.
+        p Por ejemplo: petróleo, gas natural, carbón, oro, metales.
 
-    p.pb-3 Se deben establecer las relaciones de causa y efecto entre aspectos y sus impactos, ya que esto ayuda a identificar cuáles son significativos y, por lo tanto, requieren atención y gestión prioritaria. La identificación de aspectos ambientales significativos y sus impactos asociados es fundamental para la toma de decisiones y la planificación de acciones de gestión ambiental.
+    Separador.mt-5  
 
+    .cont_3_2(style="position:relative;")
+      .titulo-segundo.color-acento-contenido(style="position:relative")
+        h2#t_3_2 3.2 Conservación ambiental    
 
+    .row.align-items-center.my-3.col-lg-12.mb-4 
+      .col-4
+        figure
+          img(src='@/assets/curso/temas/3/4.png').m-auto(data-aos="fade-right")            
+      .col-8.pt-4
+        p.mb-4(style="overflow-x: hidden !important") La conservación ambiental surge como respuesta a los problemas recurrentes que afectan tanto a la salud humana como a la de otros seres vivos en el planeta. Esta conservación debe ser profunda y genuina para minimizar los impactos humanos en el entorno y despertar la conciencia de un modelo de desarrollo sostenible que satisfaga las necesidades actuales sin comprometer las de las generaciones futuras. Por esta razón, han surgido movimientos sociales con el propósito de preservar los recursos naturales.
 
+        p.mb-4(style="overflow-x: hidden !important") El conservacionismo se enfoca en la protección del medio ambiente a través de un movimiento social que aboga por políticas y leyes ecológicas. Sus valores fundamentales incluyen la biodiversidad, el equilibrio biótico y la armonía paisajística, entre otros. Es importante señalar que el conservacionismo difiere de las posturas de los ecologistas, ya que estos últimos abogan por la no explotación de los recursos naturales, mientras que los conservacionistas promueven una explotación responsable y sostenible en términos económicos, sociales y ambientales.
+
+    p.py-3 La conservación del medio ambiente se fundamenta en diversas razones: 
+
+    .tarjeta.tarjeta--azul.p-4.my-5(data-aos="fade-right" style="background-color:#E7FFD1")
+      SlyderA(tipo="b")
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            h2 Razones científicas <br>
+            p.mb-5 Respaldan la necesidad de preservar la biodiversidad genética para mantener la vida en la Tierra. Los daños ecológicos actuales pueden tener consecuencias químicas y biológicas irreversibles que ponen en riesgo la salud humana y la supervivencia de las especies en el futuro. La variabilidad genética es crucial para que las especies se adapten a cambios ambientales, lo que afecta la evolución y la resiliencia de los ecosistemas, así como la seguridad alimentaria y la salud de la humanidad. La pérdida de diversidad genética podría limitar la capacidad de las especies para enfrentar amenazas como enfermedades y el cambio climático.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/3/5.png', alt='')
+
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            h2 Razones económicas
+            p La explotación sustentable de los recursos naturales es fundamental por razones económicas, ya que permite que estos recursos tengan el tiempo necesario para regenerarse y, por lo tanto, sean más rentables a largo plazo. La no destrucción de los hábitats en los que se encuentran contribuye a mantener la biodiversidad y preservar los ecosistemas, lo que a su vez respalda la estabilidad económica a largo plazo. La sobreexplotación y la degradación de los recursos naturales pueden tener costos significativos a nivel económico, lo que resalta la importancia de una gestión responsable y sostenible de estos recursos para garantizar su disponibilidad en el futuro.
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/3/6.png', alt='')
+
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            h2 Razones culturales <br>
+            p.mb-5 Son un aspecto esencial de la conservación ambiental, ya que muchos territorios en los que se explotan los recursos naturales tienen un valor cultural y tradicional significativo para diversas comunidades. Estos lugares pueden no solo ser atractivos desde una perspectiva turística, sino que también representan sitios de importancia mística y cultural para las poblaciones locales y para la identidad de cada país. La preservación de estos lugares no solo conserva la biodiversidad y los recursos naturales, sino que también protege el patrimonio cultural y espiritual de las comunidades, promoviendo la diversidad y la riqueza de las tradiciones y las creencias en todo el mundo.
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/3/7.png', alt='')
+
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            h2 Razones éticas <br>
+            p.mb-5 Son fundamentales en la conservación ambiental, ya que se basan en la obligación moral de proteger el bien común de todos los habitantes de la Tierra. La conservación de los recursos naturales y la biodiversidad no solo es una cuestión de interés propio, sino una responsabilidad hacia las generaciones futuras y hacia todas las formas de vida en el planeta. La ética ambiental reconoce que el ser humano está interconectado con la naturaleza y tiene la responsabilidad de preservarla para las generaciones presentes y futuras. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/3/8.png', alt='')
+
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            h2 Razones sociales
+            p La explotación descontrolada de los recursos naturales suele tener un impacto negativo en la sociedad, afectando especialmente a comunidades vulnerables que enfrentan la pobreza y condiciones de trabajo precarias. Esto puede resultar en enfermedades y agravar aún más su situación. La conservación ambiental se convierte en una cuestión social crucial para proteger a estas comunidades y mejorar sus condiciones de vida, al mismo tiempo que se preservan los recursos naturales y se fomenta un desarrollo más sostenible.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/3/9.png', alt='')
+
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            h2 Razones legales <br>
+            p.mb-5 El cumplimiento de las leyes y regulaciones ambientales es esencial para garantizar que los derechos humanos sean respetados y que las personas puedan vivir en un entorno saludable y seguro. Las leyes a nivel local, nacional e internacional desempeñan un papel fundamental en la protección de la salud y el bienestar de las personas al establecer estándares para la conservación de los recursos naturales y la prevención de daños ambientales. Esto contribuye a mantener un equilibrio entre el desarrollo económico y la protección del entorno, asegurando que se satisfagan las necesidades básicas de las generaciones actuales y futuras.
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/3/10.png', alt='')
 
 
 
