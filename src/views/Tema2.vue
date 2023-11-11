@@ -194,7 +194,7 @@
             .titulo-sexto.mb-0.color-acento-contenido.mb-1
               p.mb-0 #[b Tabla 1.] 
                 i   Variables ambientales
-        .tabla-b.color-acento-contenido( alt='En la tabla 2 se muestran algunas normas y su descripción para el manejo de los residuos.')
+        .tabla-b.color-acento-contenido( alt='')
           table
             thead
               tr

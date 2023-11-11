@@ -60,7 +60,74 @@
               h4 Normas sectoriales:
               p Existen normativas específicas para diferentes sectores, como minería, energía, agua, biodiversidad, entre otros. Estas normas detallan los requisitos ambientales para cada sector.
 
-       
+    .row.justify-content-center.mb-5(data-aos="fade-right")
+      .col-lg-10  
+        .row.align-items-center.my-5.col-lg-12.m-auto  
+          .col-sm-12.col-lg-12
+            .titulo-sexto.mb-0.color-acento-contenido.mb-1
+              p.mb-0 #[b Tabla 2.] 
+                i Clasificación normativa ambiental
+        .tabla-b.color-acento-contenido( alt='')
+          table
+            thead
+              tr
+              th(style="background-color:#FFAE7E") Clasificación
+              th(style="background-color:#FFAE7E") Concepto
+              th(style="background-color:#FFAE7E") Factores
+             
+            tbody    
+            tr
+              td Protección del ambiente
+              td Son todas aquellas normas que tienen como propósito la prevención, reducción y eliminación de contaminaciones o afectaciones al medio ambiente. 
+              td Se tienen en cuenta el cambio de procesos para prevenir emisiones atmosféricas y a su vez controles y mediciones en laboratorios especializados.  
+            tr
+              td Gestión de aguas residuales  
+              td Estas normas están encaminadas en la prevención hacia la contaminación de aguas superficiales.  
+              td Las redes de transporte de aguas y el tratamiento de sus residuos. 
+            tr
+              td Gestión de residuos
+              td Se refiere a las actividades que tienen como objetivo prevenir la generación de residuos y así poder disminuir las afectaciones que tiene al ambiente. 
+              td La recolección y transporte de los residuos es clave en este proceso, así mismo lo es el tratamiento y eliminación de residuos peligrosos. 
+            tr
+              td Protección y recuperación de suelos, aguas subterráneas y aguas superficiales
+              td Son todas aquellas medidas para prevenir las filtraciones de contaminantes en los suelos y cuerpos de agua. 
+              td Se usan para limpiar el suelo y cuerpos de agua de contaminantes que puedan traer repercusiones en la salud humana.
+            tr
+              td Atenuación de ruidos y vibraciones
+              td Son las medidas que tienden a controlar los ruidos y vibraciones en su mayoría generadas por procesos industriales. 
+              td Se realizan modificaciones preventivas de los procesos en la fuente, como lo son instalaciones de sistemas anti ruido y vibraciones. 
+            tr
+              td Protección de la biodiversidad y de los paisajes
+              td Se refiere a aquellas actividades destinadas a la conservación y rehabilitación de especies de fauna y flora. 
+              td Es la protección y rehabilitación de hábitat y especies que han sido intervenidos. 
+            tr
+              td Protección contra las radiaciones
+              td Son todas aquellas normas que mediante mediciones pretenden reducir las consecuencias negativas que trae consigo las radiaciones. 
+              td Se tiene en cuenta el tratamiento y transporte que tienen los residuos radiactivos. 
+           
+    Separador.mt-5  
+
+    .cont_2_1(style="position:relative;")
+      .titulo-segundo.color-acento-contenido(style="position:relative")
+        h2#t_3_1 3.1 Recursos naturales      
+    
+    .row.justify-content-center(data-aos="fade-right")
+      .col-lg-12
+        .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-4
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/temas/3/2.svg')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p.mb-0 Los recursos naturales son la columna vertebral de nuestro planeta, ya que proveen los componentes esenciales para mantener la vida en la Tierra. Desde la energía que nos brinda calor y luz hasta los alimentos que sustentan nuestras vidas, estos recursos son la base de la existencia humana. Van desde el sol radiante y el aire limpio hasta los minerales y las materias primas enterradas en la tierra. Sin embargo, en un mundo donde la demanda crece sin cesar y la explotación excesiva amenaza su sostenibilidad, la gestión responsable de estos recursos se ha convertido en una preocupación crítica. Los recursos naturales se dividen en dos categorías principales según su origen y su capacidad de regeneración:
+
+
+
+    p.pb-3 Se deben establecer las relaciones de causa y efecto entre aspectos y sus impactos, ya que esto ayuda a identificar cuáles son significativos y, por lo tanto, requieren atención y gestión prioritaria. La identificación de aspectos ambientales significativos y sus impactos asociados es fundamental para la toma de decisiones y la planificación de acciones de gestión ambiental.
+
+
+
+
+
 
 </template>
 
