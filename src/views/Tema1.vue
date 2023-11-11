@@ -150,8 +150,7 @@
 
     p.mb-4(style="overflow-x: hidden !important") Se enfoca en garantizar que la sociedad pueda satisfacer sus necesidades básicas sin perjudicar los ecosistemas ni comprometer las necesidades de las generaciones futuras. Este enfoque promueve la responsabilidad ambiental, la preservación de los recursos naturales y el equilibrio entre el crecimiento económico, la protección del medio ambiente y el bienestar social. Busca perpetuar a la especie humana mediante un modelo de desarrollo que permita un presente próspero sin comprometer el futuro de nuestro planeta.
 
-
-
+   
       
 </template>
 
