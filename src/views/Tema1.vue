@@ -26,7 +26,7 @@
             li 
               | Es importante tener en cuenta que los seres humanos son un elemento destacado en este sistema y están modificando su comportamiento para adaptarse a las nuevas condiciones. Esta adaptación afecta los límites de tolerancia a medida que transcurre el tiempo y aumenta la diversidad en términos de requerir materias primas derivadas de los recursos naturales, como el agua utilizada en la agricultura o los combustibles para la generación de energía. Debido a esto, el medio ambiente se ve afectado por la explotación de recursos y la necesidad de una mayor cobertura cuando los seres humanos están en proceso de adaptación y expansión.
 
-    p.mb-4(style="overflow-x: hidden !important") Los aspectos ambientales se pueden analizar desde cinco perspectivas principales:
+    p.my-5(style="overflow-x: hidden !important") Los aspectos ambientales se pueden analizar desde cinco perspectivas principales:
 
     .row.mb-4
       .col-auto.my-5.mb-sm-0.mb-5        

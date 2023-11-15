@@ -16,7 +16,6 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 La promotoría ambiental desempeña un papel fundamental en la promoción de la conciencia y el cuidado del medio ambiente, contribuyendo a la construcción de un futuro basado en modelos de desarrollo sostenible. Los promotores ambientales son actores clave en la educación ambiental y lideran proyectos y programas destinados a proteger el medio ambiente y fomentar la sensibilización y la educación en sus comunidades. Su labor se enmarca en la participación ciudadana, lo que incluye supervisar la gestión ambiental y organizar a las comunidades para abordar problemas ambientales. Entre sus funciones se encuentran:
 
-    p.py-3 Se deben establecer las relaciones de causa y efecto entre aspectos y sus impactos, ya que esto ayuda a identificar cuáles son significativos y, por lo tanto, requieren atención y gestión prioritaria. La identificación de aspectos ambientales significativos y sus impactos asociados es fundamental para la toma de decisiones y la planificación de acciones de gestión ambiental.
 
     .row.justify-content-center.mb-5
       .col-lg-11.position-relative

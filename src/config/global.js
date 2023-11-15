@@ -207,32 +207,32 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Aspecto ambiental:',
+      termino: 'Aspecto ambiental',
       significado:
         'actividades humanas que tienen influencia sobre el entorno en donde se desarrollan.',
     },
     {
-      termino: 'Componentes ambientales:',
+      termino: 'Componentes ambientales',
       significado:
         'elementos, factores o recursos naturales que presentan interacciones entre sí, lo cual permite que se genere la vida en nuestro planeta.',
     },
     {
-      termino: 'Impacto ambiental:',
+      termino: 'Impacto ambiental',
       significado:
         'consecuencias de las actividades humanas que repercuten sobre el medio ambiente generando un impacto ambiental en el entorno en el cual operan ya sea positivo o negativo, el cual incluye el aire, el agua, el suelo, la flora, la fauna, los seres humanos y sus interrelaciones.',
     },
     {
-      termino: 'Leyes ambientales:',
+      termino: 'Leyes ambientales',
       significado:
         'corresponden a los principios y normas que buscan la protección, conservación, recuperación del medio ambiente y preservación de los recursos naturales.',
     },
     {
-      termino: 'Matriz aspectos e impactos:',
+      termino: 'Matriz aspectos e impactos',
       significado:
         'base fundamental para la toma de decisiones frente a los impactos ambientales que se determinen y evalúen dentro de la organización.',
     },
     {
-      termino: 'Resolución ambiental:',
+      termino: 'Resolución ambiental',
       significado:
         'lineamientos que la autoridad requiere para la elaboración y ejecución de los estudios ambientales que deben ser presentados ante las autoridades.',
     },
@@ -242,7 +242,7 @@ export default {
       referencia:
         'Alcaldía de Ibagué. (s.f.). (2022). Lección 1: Concepto de participación comunitaria. En Participación comunitaria.',
       link:
-        'https://ibague.gov.co/portal/admin/archivos/formacionVirtual/participacioncomunitaria/contenido/pdf/Unidad1Leccion1.pd',
+        'https://ibague.gov.co/portal/admin/archivos/formacionVirtual/participacioncomunitaria/contenido/pdf/Unidad1Leccion1.pdf',
     },
     {
       referencia:

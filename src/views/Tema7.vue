@@ -26,7 +26,7 @@
         h2#t_7_1 7.1 Niveles
 
 
-    p.py-5 La participación comunitaria se puede clasificar en dos grupos principales, según los procesos sociales involucrados: de la participación:
+    p.py-0 La participación comunitaria se puede clasificar en dos grupos principales, según los procesos sociales involucrados: de la participación:
 
     .tarjeta.tarjeta--azul.p-4.my-5(data-aos="fade-right" style="background-color:#E7FFD1")
       SlyderA(tipo="b")
@@ -200,12 +200,12 @@
               li.mb-4 
               b ● Aprobatorio: 
               | sometido a consideración de la comunidad para que decida si lo aprueba o lo rechaza total o parcialmente.  <br>
-              b ● Derogatorio:
+              b ● Derogatorio: 
               | sometimiento de una norma que ya ha sido aprobada por el congreso, el concejo municipal o la asamblea departamental a consideración de la comunidad para que tome la decisión de derogar. 
 
           p(numero="4" titulo="Revocatoria del mandato")  Se refiere al puntaje obtenido después de calificar los riesgos de cada uno de los productos de un establecimiento, según su severidad, ocurrencia de falla (ocurrencia) y afectación (población expuesta).
             ul.lista-ul--color
-              li.mb-4 
+              li.my-4 
                 i.fas.fa-check
                 | Derecho político que tienen todos los colombianos, por medio del cual dan por terminado el mandato conferido a un gobernador o alcalde.
 
@@ -218,9 +218,9 @@
                 i.fas.fa-check
                 | Debe ser aprobada por más del 51 % de los votos de la ciudadanía que participe en dicha convocatoria, siempre y cuando el número de sufragios no sea inferior al 55 % de la votación válida registrada el día en el que se eligió al respectivo mandatario.
 
-          p(numero="5" titulo="Cabildo abierto")  Son los ponderados o pesos de cada componente, su suma debe ser igual a uno (Aroca y Guzmán, 2017).
+          p.mb-3(numero="5" titulo="Cabildo abierto")  Son los ponderados o pesos de cada componente, su suma debe ser igual a uno (Aroca y Guzmán, 2017).
             ul.lista-ul--color
-              li.mb-4 
+              li.my-4 
                 i.fas.fa-check
                 | Es la reunión pública de todos los consejos distritales, municipales o de las juntas de administraciones locales, donde la comunidad puede participar directamente con la finalidad de discutir diversos asuntos los cuales sean de interés para los habitantes. 
 

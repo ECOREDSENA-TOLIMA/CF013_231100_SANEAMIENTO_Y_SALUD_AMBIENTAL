@@ -121,14 +121,14 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-check
-                b Establecimiento de objetivos y metas ambientales:
+                b Establecimiento de objetivos y metas ambientales: 
                 | las organizaciones deben establecer objetivos y metas ambientales y desarrollar planes para lograrlos.
         .row.align-items-center.my-3.col-lg-12.mb-4  
           .col-sm.mb-5.mb-sm-0.px-5.pt-3.pb-1(style="background:#E7FFD1; border-radius:35px")
             ul.lista-ul--color
               li 
                 i.fas.fa-check
-                b Implementación y operación:
+                b Implementación y operación: 
                 | la norma ISO 14001 exige que las organizaciones establezcan procedimientos y procesos para controlar sus aspectos ambientales y asegurarse de que se están cumpliendo sus objetivos y metas ambientales.
         .row.align-items-center.my-3.col-lg-12.mb-4  
           .col-sm.mb-5.mb-sm-0.px-5.pt-3.pb-1(style="background:#E7FFD1; border-radius:35px")
@@ -212,7 +212,7 @@
             figure
               img(src='@/assets/curso/temas/6/8.svg', alt='Texto que describa la imagen')
           
-        h2.text-center El administrador
+        h3.text-center El administrador
         p Su rol es plasmar la ruta que se seguirá en un plan de acción en el cual deberá delegar los responsables de implementar las actividades, monitorear los progresos y cuando se cumpla con este plan, deberá verificar el cumplimiento de los objetivos y si no se cumplieron deberá definir nuevas acciones que se deben realizar. 
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
@@ -220,7 +220,7 @@
             figure
               img(src='@/assets/curso/temas/6/9.svg', alt='Texto que describa la imagen')
           
-        h2.text-center El responsable del plan de acción
+        h3.text-center El responsable del plan de acción
         p Tiene la misión de darle seguimiento al plan y asegurarse de que cada actividad se implemente correctamente y en los tiempos estipulados.
 
       .col-md.tarjeta.color-acento-contenido.p-5
@@ -229,7 +229,7 @@
             figure
               img(src='@/assets/curso/temas/6/10.svg', alt='Texto que describa la imagen')
           
-        h2.text-center El responsable de la ejecución
+        h3.text-center El responsable de la ejecución
         p Cada actividad puede ser llevada a cabo por un responsable diferente, pues se encargará de concretar la acción.
 
     Separador.mt-5  

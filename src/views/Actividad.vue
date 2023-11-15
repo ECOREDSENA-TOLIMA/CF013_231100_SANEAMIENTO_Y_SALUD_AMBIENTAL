@@ -10,7 +10,7 @@
             img(src="@/assets/template/opcion-multiple.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Conocimientos sobre componentes ambientales.
+          h2 Conocimientos sobre componentes ambientales
         p.mb-4 #[b Objetivo] Afianzar los conocimientos del aprendiz en lo relacionado con los procesos de los componentes ambientales.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

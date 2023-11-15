@@ -60,6 +60,8 @@
               h4 Normas sectoriales:
               p Existen normativas específicas para diferentes sectores, como minería, energía, agua, biodiversidad, entre otros. Estas normas detallan los requisitos ambientales para cada sector.
 
+    p.my-5 Colombia, considerado el segundo país más megadiverso del mundo debido a su riqueza en ecosistemas y biodiversidad, cuenta con una amplia normativa ambiental para garantizar la conservación y preservación de estos recursos naturales valiosos. Las principales normativas ambientales en Colombia son las siguientes: 
+
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-10  
         .row.align-items-center.my-5.col-lg-12.m-auto  
@@ -120,9 +122,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Los recursos naturales son la columna vertebral de nuestro planeta, ya que proveen los componentes esenciales para mantener la vida en la Tierra. Desde la energía que nos brinda calor y luz hasta los alimentos que sustentan nuestras vidas, estos recursos son la base de la existencia humana. Van desde el sol radiante y el aire limpio hasta los minerales y las materias primas enterradas en la tierra. Sin embargo, en un mundo donde la demanda crece sin cesar y la explotación excesiva amenaza su sostenibilidad, la gestión responsable de estos recursos se ha convertido en una preocupación crítica. Los recursos naturales se dividen en dos categorías principales según su origen y su capacidad de regeneración:
 
-    p.py-3 Se deben establecer las relaciones de causa y efecto entre aspectos y sus impactos, ya que esto ayuda a identificar cuáles son significativos y, por lo tanto, requieren atención y gestión prioritaria. La identificación de aspectos ambientales significativos y sus impactos asociados es fundamental para la toma de decisiones y la planificación de acciones de gestión ambiental.
-
-    .tarjeta--container.row.mb-5
+    .tarjeta--container.row.my-5
       .col-md.tarjeta.color-primario.p-5
         .row.justify-content-center.mb-4
           .col-6

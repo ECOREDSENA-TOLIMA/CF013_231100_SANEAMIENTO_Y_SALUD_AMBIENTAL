@@ -182,7 +182,7 @@
             img(src='@/assets/curso/temas/2/17.svg', alt='Texto que describa la imagen' style="max-width: 250px")
         .col-md-6.mb-4.mb-md-0
           b Elaborar un resumen y recomendaciones <br><br>          
-          p resumir los resultados del proceso de evaluación de impactos y proporcionar recomendaciones sobre cómo mitigar, prevenir o compensar los impactos negativos.                        
+          p Resumir los resultados del proceso de evaluación de impactos y proporcionar recomendaciones sobre cómo mitigar, prevenir o compensar los impactos negativos.                        
       
     p.my-5(style="overflow-x: hidden !important") Este enfoque sistemático y metódico es esencial para tomar decisiones informadas sobre proyectos y actividades que puedan afectar el medio ambiente, y para garantizar que se tomen medidas para proteger y preservar los recursos naturales y la calidad del entorno.
     p.my-5(style="overflow-x: hidden !important") Para complementar el proceso de identificación de los impactos ambientales, es fundamental comprender los aspectos ambientales de la organización, que abarcan las actividades, productos y servicios, y su potencial influencia en el medio ambiente. A continuación, mencionan algunas variables que deben ser consideradas como posibles factores contaminantes:
@@ -244,15 +244,15 @@
       .row.justify-content-center.mt-5
         .col-lg-8.my-5
           LineaTiempoD.color-primario
-            p(numero="✔" titulo=" ISO 14001:")   La norma internacional ISO 14001 establece los requisitos para un Sistema de Gestión Ambiental (SGA) efectivo. Ayuda a las organizaciones a identificar y evaluar aspectos e impactos ambientales, así como a establecer procedimientos para gestionarlos adecuadamente.
+            p(numero="✔" titulo=" ISO 14001")   La norma internacional ISO 14001 establece los requisitos para un Sistema de Gestión Ambiental (SGA) efectivo. Ayuda a las organizaciones a identificar y evaluar aspectos e impactos ambientales, así como a establecer procedimientos para gestionarlos adecuadamente.
 
-            p(numero="✔" titulo="Leyes y regulaciones ambientales locales:")  Cada país tiene sus propias leyes y regulaciones ambientales que requieren que las organizaciones identifiquen y gestionen aspectos e impactos ambientales. Estas leyes pueden variar ampliamente y deben ser cumplidas.
+            p(numero="✔" titulo="Leyes y regulaciones ambientales locales")  Cada país tiene sus propias leyes y regulaciones ambientales que requieren que las organizaciones identifiquen y gestionen aspectos e impactos ambientales. Estas leyes pueden variar ampliamente y deben ser cumplidas.
 
-            p(numero="✔" titulo="Directivas y regulaciones específicas de la industria:") Algunas industrias, como la química, la manufactura o la energía, pueden estar sujetas a regulaciones específicas que abordan la identificación de aspectos e impactos ambientales relacionados con sus actividades.
+            p(numero="✔" titulo="Directivas y regulaciones específicas de la industria") Algunas industrias, como la química, la manufactura o la energía, pueden estar sujetas a regulaciones específicas que abordan la identificación de aspectos e impactos ambientales relacionados con sus actividades.
 
-            p(numero="✔" titulo=" Guías de buenas prácticas y pautas sectoriales:")  En algunos casos, las organizaciones pueden recurrir a guías y pautas específicas de la industria o del sector para identificar y gestionar aspectos e impactos ambientales de manera efectiva.
+            p(numero="✔" titulo=" Guías de buenas prácticas y pautas sectoriales")  En algunos casos, las organizaciones pueden recurrir a guías y pautas específicas de la industria o del sector para identificar y gestionar aspectos e impactos ambientales de manera efectiva.
             
-            p(numero="✔" titulo="Evaluaciones de Impacto Ambiental (EIA):")   Para proyectos o actividades que pueden tener un impacto significativo en el medio ambiente, se pueden requerir evaluaciones de impacto ambiental, que son procesos formales para identificar y evaluar impactos potenciales antes de su ejecución.
+            p(numero="✔" titulo="Evaluaciones de Impacto Ambiental (EIA)")   Para proyectos o actividades que pueden tener un impacto significativo en el medio ambiente, se pueden requerir evaluaciones de impacto ambiental, que son procesos formales para identificar y evaluar impactos potenciales antes de su ejecución.
 
    
         .col-8.col-lg-4
