@@ -181,7 +181,7 @@
           .col-md-6.mb-4.mb-md-0
             h2 Planteamiento de las estrategias
 
-            p Es necesario determinar todas las posibles rutas que lleven a conseguir los objetivos planteados, una vez se tengan estas rutas se podrá descartar cuales son útiles y cuáles no, así mismo cuales son factibles y cuáles no, hasta lograr determinar una estrategia que se adecue a las necesidades de la organización. 
+            p Es necesario determinar todas las posibles rutas que lleven a conseguir los objetivos planteados, una vez se tengan estas rutas se podrá descartar cúales son útiles y cuáles no, así mismo cúales son factibles y cuáles no, hasta lograr determinar una estrategia que se adecue a las necesidades de la organización. 
           .col-md-6
             figure
               img(src='@/assets/curso/temas/6/5.png', alt='')
@@ -189,7 +189,7 @@
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
             h2 Definir las tareas y sus responsables <br>
-            p.mb-5 La estrategia es un recorrido que al materializarlo entregará unas tareas concretas las cuales se deben organizar dentro de un nivel jerárquico para un control adecuado, así mismo se deben clasificar en urgentes, importantes y comunes. 
+            p.mb-5 La estrategia es un recorrido que al materializarlo entregará unas tareas concretas, las cúales se deben organizar dentro de un nivel jerárquico para un control adecuado, así mismo se deben clasificar en urgentes, importantes y comunes. 
 
           .col-md-6
             figure
@@ -198,7 +198,7 @@
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
             h2 Ejecución del plan <br>
-            p.mb-5 Para iniciar la ejecución se debe no solo cumplir con lo establecido, sino revisar mediante dinámicas de control y de supervisión cuales son los avances que se van generando y de cometer errores puedan ser corregidos con tiempo. 
+            p.mb-5 Para iniciar la ejecución se debe no solo cumplir con lo establecido, sino revisar mediante dinámicas de control y de supervisión cúales son los avances que se van generando y de cometer errores puedan ser corregidos con tiempo. 
           .col-md-6
             figure
               img(src='@/assets/curso/temas/6/7.png', alt='')

@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Componentes ambientales',
     descripcionCurso:
-      'Se abordarán temas que permitirán tener una concepción clara de los componentes ambientales, cómo determinarlos y evaluarlos, la manera de participar comunitariamente para defenderlos conociendo las leyes que los abarcan, así mismo obtendrá conocimientos sobre las técnicas educativas para transmitir este conocimiento.',
+      'Se abordarán temas que permitirán tener una concepción clara de los componentes ambientales, cómo determinarlos y evaluarlos, la manera de participar comunitariamente para defenderlos, conociendo las leyes que los abarcan, así mismo obtendrá conocimientos sobre las técnicas educativas para transmitir este conocimiento.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
@@ -177,6 +177,11 @@ export default {
         download: 'downloads/material.zip',
       },
       {
+        icono: 'fas fa-download',
+        titulo: 'Descargar pdf',
+        download: 'downloads/CFA_13_231100.pdf',
+      },
+      {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
@@ -200,7 +205,7 @@ export default {
     {
       tema: '3. Normatividad Ambiental',
       referencia:
-        'Esteban Correa, Introducción a la Normatividad Ambiental en Colombia (Sonido Mejorado), YouTube.',
+        'Clase 42. Sesión 8.1. Introducción a la Normatividad Ambiental en Colombia',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=XPeC4Fw_T10',
     },
@@ -227,7 +232,7 @@ export default {
         'corresponden a los principios y normas que buscan la protección, conservación, recuperación del medio ambiente y preservación de los recursos naturales.',
     },
     {
-      termino: 'Matriz aspectos e impactos',
+      termino: 'Matriz de aspectos e impactos',
       significado:
         'base fundamental para la toma de decisiones frente a los impactos ambientales que se determinen y evalúen dentro de la organización.',
     },
@@ -247,11 +252,11 @@ export default {
     {
       referencia:
         'Alfonso Ávila, N. Z. H. (2014). Principales normas ambientales colombianas. Universidad EAN.',
-      link: 'https://files.core.ac.uk/pdf/1162/74477868.pdf',
+      link: '',
     },
     {
       referencia:
-        'Carrillo Roa, J. D. y Cacua Peñaloza, S. C. (2019). Educación ambiental en Colombia: hacia un óptimo desarrollo sostenible. Dialéctica, 15(1)',
+        'Carrillo Roa, J. D. y Cacua Peñaloza, S. C. (2019). Educación ambiental en Colombia: hacia un óptimo desarrollo sostenible. Dialéctica, 15(1).',
       link: 'http://portal.amelica.org/ameli/jatsRepo/88/88741012/html/',
     },
     {

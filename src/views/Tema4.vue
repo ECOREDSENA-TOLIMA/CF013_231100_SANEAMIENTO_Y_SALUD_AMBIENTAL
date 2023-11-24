@@ -42,7 +42,7 @@
               figure
                 img(src="@/assets/curso/temas/4/4.svg", alt="alt").img150
             .col.m-1
-              .titulo-principal.color-acento-botones.pt-4 Articular las organizaciones con índoles sociales a los procesos ambientales bien sea locales o regionales. 
+              .titulo-principal.color-acento-botones.pt-4 Articular las organizaciones con índoles sociales a los procesos ambientales, bien sea locales o regionales. 
 
         .crd.py-1
           .row.align-items-center

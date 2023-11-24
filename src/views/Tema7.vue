@@ -171,6 +171,7 @@
                 | El presidente de la república, con la firma de todos los ministros, podrá convocar al pueblo para que se pronuncie sobre las políticas del ejecutivo que no requieran aprobación del congreso; excepto las relacionadas con los estados de excepción y el ejercicio de los poderes correspondientes.
 
               li.mb-4 
+                i.fas.fa-check
                 | La cámara de representantes y el senado de la república estudiarán las razones que tiene el presidente para solicitar un plebiscito, para lo cual cuentan con un periodo de un mes para aprobar o rechazar esta iniciativa.
 
           p(numero="2" titulo="Iniciativa popular legislativa") 
@@ -181,11 +182,11 @@
 
               li.mb-4 
                 i.fas.fa-check
-                | Inicialmente se debe inscribir un comité de promotores, el cual esté respaldado por apoyos representados en firmas que equivalga al 5 por mil del censo electoral. 
+                | Inicialmente, se debe inscribir un comité de promotores, el cual esté respaldado por apoyos representados en firmas que equivalga al 5 por mil del censo electoral. 
 
               li.mb-4 
                 i.fas.fa-check
-                | Posteriormente se debe inscribir la iniciativa junto con las respectivas firmas, las cuales serán revisadas por la registraduría y en el momento que alcance el umbral de participación, pasará a ser estudiado por la corporación que sea competente de acuerdo con el tema, la cual definirá si este es aprobado o no. 
+                | Posteriormente, se debe inscribir la iniciativa junto con las respectivas firmas, las cuales serán revisadas por la registraduría y en el momento que alcance el umbral de participación, pasará a ser estudiado por la corporación que sea competente de acuerdo con el tema, la cual definirá si este es aprobado o no. 
 
           p(numero="3" titulo="Referendo") 
             ul.lista-ul--color
@@ -222,7 +223,7 @@
             ul.lista-ul--color
               li.my-4 
                 i.fas.fa-check
-                | Es la reunión pública de todos los consejos distritales, municipales o de las juntas de administraciones locales, donde la comunidad puede participar directamente con la finalidad de discutir diversos asuntos los cuales sean de interés para los habitantes. 
+                | Es la reunión pública de todos los consejos distritales, municipales o de las juntas de administraciones locales, donde la comunidad puede participar directamente con la finalidad de discutir diversos asuntos, los cuales sean de interés para los habitantes. 
 
               li.mb-4 
                 i.fas.fa-check

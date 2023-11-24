@@ -49,7 +49,7 @@
 
         .row
           figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
-            img.mb-1(src='@/assets/curso/temas/5/5.svg' alt='En la figura 2 se muestran los componentes de la educación ambiental, para un proceso integral y continuo.').m-auto(data-aos="fade-right")
+            img.mb-1(src='@/assets/curso/temas/5/5.svg' alt='En la figura 3 se representa una línea de tiempo sobre el desarrollo educativo ambiental incluyendo acontecimientos de los años 1972 al 2015.').m-auto(data-aos="fade-right")
           figure.movil.mt-0
             .row.justify-content-center.d-lg-none.d-md-none        
               img(src="@/assets/curso/temas/5/6.svg" data-aos="zoom-in-up")
@@ -151,7 +151,7 @@
             p.mb-2 ● Mesa redonda. 
             p.mb-2 ● Panel Phillips 6-6.
             p.mb-2 ● Simposio. 
-            p.mb-2 ● Socio drama. 
+            p.mb-2 ● Sociodrama. 
             p.mb-2 ● Taller.
 
 

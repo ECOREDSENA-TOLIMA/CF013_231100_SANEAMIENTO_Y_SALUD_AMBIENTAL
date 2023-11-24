@@ -273,7 +273,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/2/19.png')})`}"
             )
             .bloque-texto-g__texto.p-4.my-3
-              p.pt-1.pb-3 La valoración de aspectos e impactos ambientales es un proceso esencial para las organizaciones que buscan comprender y gestionar su impacto en el medio ambiente. Esto involucra identificar actividades, productos y servicios, así como analizar entradas y salidas de materiales, procesos, tecnología, instalaciones, transporte y factores humanos relacionados con la organización. Los cambios en el entorno ya sean positivos o negativos, están directamente relacionados con aspectos ambientales. La evaluación ambiental, que implica la verificación del cumplimiento de normativas y el estado de los componentes del entorno, es clave para planificar acciones de mejora. 
+              p.pt-1.pb-3 La valoración de aspectos e impactos ambientales es un proceso esencial para las organizaciones que buscan comprender y gestionar su impacto en el medio ambiente. Esto involucra identificar actividades, productos y servicios, así como analizar entradas y salidas de materiales, procesos, tecnología, instalaciones, transporte y factores humanos relacionados con la organización. Los cambios en el entorno, ya sean positivos o negativos, están directamente relacionados con aspectos ambientales. La evaluación ambiental, que implica la verificación del cumplimiento de normativas y el estado de los componentes del entorno, es clave para planificar acciones de mejora. 
 
     p.pb-3 Se deben establecer las relaciones de causa y efecto entre aspectos y sus impactos, ya que esto ayuda a identificar cuáles son significativos y, por lo tanto, requieren atención y gestión prioritaria. La identificación de aspectos ambientales significativos y sus impactos asociados es fundamental para la toma de decisiones y la planificación de acciones de gestión ambiental.
 
@@ -297,7 +297,7 @@
         p.mb-2(style="overflow-x: hidden !important") c) Identificación de los elementos del entorno que serán afectados por cada acción.
         p.mb-2(style="overflow-x: hidden !important") d) Evaluación del significado de cada elemento afectado en una escala del 1 al 10. 
         p.mb-2(style="overflow-x: hidden !important") e) Evaluación del tamaño de cada acción en cada elemento en una escala del 1 al 10.
-        p.mb-2(style="overflow-x: hidden !important") f) Determinación de si el tamaño de la acción es positivo o negativo.
+        p.mb-2(style="overflow-x: hidden !important") f) Determinación de sí el tamaño de la acción es positivo o negativo.
         p.mb-2(style="overflow-x: hidden !important") g) Identificación del número de medidas del proyecto que influyen en el entorno, tanto de manera positiva como negativa.
         p.mb-2(style="overflow-x: hidden !important") h) Suma de los resultados de las acciones.
         p.mb-2(style="overflow-x: hidden !important") i) Determinación del número de factores ambientales afectados por el proyecto, tanto en términos positivos como negativos.

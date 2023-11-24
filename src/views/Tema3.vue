@@ -25,7 +25,7 @@
               p Esta ley establece el Sistema Nacional Ambiental (SINA) y define los principios y objetivos para la conservación, protección y restauración del ambiente y los recursos naturales en Colombia.
           .row(titulo="1993")
             .col-lg-12.mb-0.mb-lg-0
-              h4 Ley 99 d e 1993: 
+              h4 Ley 99 de 1993: 
               p Las personas con discapacidad incluyen a aquellas que tengan deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que, al interactuar con diversas barreras, puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás.
           .row(titulo="")
             .col-lg-12.mb-0.mb-lg-0
@@ -60,7 +60,6 @@
               h4 Normas sectoriales:
               p Existen normativas específicas para diferentes sectores, como minería, energía, agua, biodiversidad, entre otros. Estas normas detallan los requisitos ambientales para cada sector.
 
-    p.my-5 Colombia, considerado el segundo país más megadiverso del mundo debido a su riqueza en ecosistemas y biodiversidad, cuenta con una amplia normativa ambiental para garantizar la conservación y preservación de estos recursos naturales valiosos. Las principales normativas ambientales en Colombia son las siguientes: 
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-10  
