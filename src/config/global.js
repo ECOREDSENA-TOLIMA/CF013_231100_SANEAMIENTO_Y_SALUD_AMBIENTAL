@@ -178,7 +178,7 @@ export default {
       },
       {
         icono: 'fas fa-download',
-        titulo: 'Descargar pdf',
+        titulo: 'Descargar PDF',
         download: 'downloads/CFA_13_231100.pdf',
       },
       {
@@ -252,7 +252,8 @@ export default {
     {
       referencia:
         'Alfonso Ávila, N. Z. H. (2014). Principales normas ambientales colombianas. Universidad EAN.',
-      link: '',
+      link:
+        'https://repository.universidadean.edu.co/handle/10882/1615?locale-attribute=en',
     },
     {
       referencia:
