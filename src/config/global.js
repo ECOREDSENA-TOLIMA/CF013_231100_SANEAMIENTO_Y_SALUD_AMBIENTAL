@@ -173,13 +173,13 @@ export default {
       },
       {
         icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
+        titulo: 'Descargar PDF',
+        download: 'downloads/CFA_13_231100.zip',
       },
       {
         icono: 'fas fa-download',
-        titulo: 'Descargar PDF',
-        download: 'downloads/CFA_13_231100.pdf',
+        titulo: 'Descargar material',
+        download: 'downloads/material.zip',
       },
       {
         icono: 'far fa-registered',
@@ -205,7 +205,7 @@ export default {
     {
       tema: '3. Normatividad Ambiental',
       referencia:
-        'Clase 42. Sesión 8.1. Introducción a la Normatividad Ambiental en Colombia',
+        'Esteban  Correa,  Clase 42. Sesión 8.1. Introducción a la Normatividad Ambiental en Colombia, YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=XPeC4Fw_T10',
     },
