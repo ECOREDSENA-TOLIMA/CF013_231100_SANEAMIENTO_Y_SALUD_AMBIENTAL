@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="505" height="964.75" viewBox="0 0 505 964.75">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#defff8"/>
+      <stop offset="0.803" stop-color="#eaf5ff"/>
+      <stop offset="1" stop-color="#f0feff"/>
+    </linearGradient>
+    <filter id="Unión_45" x="228.772" y="781.886" width="57.431" height="141.793" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Unión_46" x="228.772" y="674.599" width="57.431" height="141.793" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Unión_47" x="228.772" y="569.145" width="57.431" height="141.793" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Unión_48" x="228.772" y="463.691" width="57.431" height="141.793" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Unión_49" x="228.772" y="358.237" width="57.431" height="141.793" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Unión_50" x="228.772" y="252.784" width="57.431" height="141.793" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Unión_51" x="228.772" y="147.331" width="57.431" height="141.793" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Unión_52" x="228.772" y="40.043" width="57.431" height="141.793" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1074963" data-name="Grupo 1074963" transform="translate(-285 -2630.8)">
+    <g id="Grupo_1074961" data-name="Grupo 1074961" transform="translate(0 2391.218)">
+      <g id="Grupo_1072963" data-name="Grupo 1072963" transform="translate(790 1237.782) rotate(180)">
+        <rect id="Rectángulo_376022" data-name="Rectángulo 376022" width="505" height="964.75" transform="translate(0 33.451)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Grupo_1074962" data-name="Grupo 1074962" transform="translate(778.003 2655.753) rotate(90)">
+      <g id="Grupo_1074957" data-name="Grupo 1074957" transform="translate(21.09 215.8)">
+        <g transform="matrix(0, -1, 1, 0, -46.04, 277.2)" filter="url(#Unión_45)">
+          <path id="Unión_45-2" data-name="Unión 45" d="M0,0V39.43H108.914v-.2l14.879-19.616L108.914,0Z" transform="translate(277.2 787.89) rotate(90)" fill="#ffae7e"/>
+        </g>
+        <g transform="matrix(0, -1, 1, 0, -46.04, 277.2)" filter="url(#Unión_46)">
+          <path id="Unión_46-2" data-name="Unión 46" d="M0,0V39.43H108.914v-.2l14.879-19.616L108.914,0Z" transform="translate(277.2 680.6) rotate(90)" fill="#c1e29a"/>
+        </g>
+        <g transform="matrix(0, -1, 1, 0, -46.04, 277.2)" filter="url(#Unión_47)">
+          <path id="Unión_47-2" data-name="Unión 47" d="M0,0V39.43H108.914v-.2l14.879-19.616L108.914,0Z" transform="translate(277.2 575.14) rotate(90)" fill="#ffae7e"/>
+        </g>
+        <g transform="matrix(0, -1, 1, 0, -46.04, 277.2)" filter="url(#Unión_48)">
+          <path id="Unión_48-2" data-name="Unión 48" d="M0,0V39.43H108.914v-.2l14.879-19.616L108.914,0Z" transform="translate(277.2 469.69) rotate(90)" fill="#c1e29a"/>
+        </g>
+        <g transform="matrix(0, -1, 1, 0, -46.04, 277.2)" filter="url(#Unión_49)">
+          <path id="Unión_49-2" data-name="Unión 49" d="M0,0V39.43H108.914v-.2l14.879-19.616L108.914,0Z" transform="translate(277.2 364.24) rotate(90)" fill="#ffae7e"/>
+        </g>
+        <g transform="matrix(0, -1, 1, 0, -46.04, 277.2)" filter="url(#Unión_50)">
+          <path id="Unión_50-2" data-name="Unión 50" d="M0,0V39.43H108.914v-.2l14.879-19.616L108.914,0Z" transform="translate(277.2 258.78) rotate(90)" fill="#c1e29a"/>
+        </g>
+        <g transform="matrix(0, -1, 1, 0, -46.04, 277.2)" filter="url(#Unión_51)">
+          <path id="Unión_51-2" data-name="Unión 51" d="M0,0V39.43H108.914v-.2l14.879-19.616L108.914,0Z" transform="translate(277.2 153.33) rotate(90)" fill="#ffae7e"/>
+        </g>
+        <g transform="matrix(0, -1, 1, 0, -46.04, 277.2)" filter="url(#Unión_52)">
+          <path id="Unión_52-2" data-name="Unión 52" d="M0,0V39.43H108.914v-.2l14.879-19.616L108.914,0Z" transform="translate(277.2 46.04) rotate(90)" fill="#c1e29a"/>
+        </g>
+      </g>
+      <path id="Unión_53" data-name="Unión 53" d="M647.221,220.078a19,19,0,0,1-19-19V36.194a19,19,0,0,1,19-19h69.321L721.186,0l4.643,17.194H828.914a19,19,0,0,1,19,19V201.078a19,19,0,0,1-19,19Zm-209.407,0a19,19,0,0,1-19-19V36.194a19,19,0,0,1,19-19h69.322L511.78,0l4.643,17.194h74.956a19,19,0,0,1,19,19V201.078a19,19,0,0,1-19,19Zm-209.408,0a19,19,0,0,1-19-19V36.194a19,19,0,0,1,19-19h69.322L302.372,0l4.643,17.194h74.956a19,19,0,0,1,19,19V201.078a19,19,0,0,1-19,19ZM19,220.078a19,19,0,0,1-19-19V36.194a19,19,0,0,1,19-19H88.321L92.965,0l4.643,17.194h74.957a19,19,0,0,1,19,19V201.078a19,19,0,0,1-19,19Z" transform="translate(0 254.925)" fill="#c1e29a"/>
+      <path id="Unión_54" data-name="Unión 54" d="M644.412,215.8a19,19,0,0,1-19-19V34.9a19,19,0,0,1,19-19h73.274L721.653,0l3.967,15.9h71.5a19,19,0,0,1,19,19V196.8a19,19,0,0,1-19,19Zm-208.471,0a19,19,0,0,1-19-19V34.9a19,19,0,0,1,19-19h73.276L513.184,0l3.967,15.9h76.862a19,19,0,0,1,19,19V196.8a19,19,0,0,1-19,19Zm-208.471,0a19,19,0,0,1-19-19V34.9a19,19,0,0,1,19-19h73.275L304.713,0l3.967,15.9h71.5a19,19,0,0,1,19,19V196.8a19,19,0,0,1-19,19ZM19,215.8a19,19,0,0,1-19-19V34.9a19,19,0,0,1,19-19H92.276L96.243,0l3.967,15.9h71.5a19,19,0,0,1,19,19V196.8a19,19,0,0,1-19,19Z" transform="translate(914.26 215.799) rotate(180)" fill="#ffdac4"/>
+      <text id="Conferencia_de_Estocolmo_Suecia_Por_primera_vez_se_habla_de_educación_ambiental._" data-name="Conferencia de Estocolmo (Suecia)
+
+Por primera vez se habla de educación ambiental.
+" transform="translate(27.047 453.702) rotate(-90)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="33.562" y="13">Conferencia de </tspan><tspan x="19.982" y="33">Estocolmo (Suecia)</tspan><tspan x="81.153" y="53"></tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="4.673" y="73">Por primera vez se habla </tspan><tspan x="5.052" y="93">de educación ambiental.</tspan><tspan x="81.153" y="113"></tspan></tspan></text>
+      <text id="Congreso_Internacional_de_Educación_Ambiental_de_Tbilisi_URSS_La_educación_ambiental_se_integra_al_currículum_escolar._" data-name="Congreso Internacional de Educación Ambiental de Tbilisi (URSS)
+
+La educación ambiental se integra al currículum escolar.
+" transform="translate(230.373 460.56) rotate(-90)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="2.452" y="13">Congreso Internacional de </tspan><tspan x="7.719" y="31">Educación Ambiental de </tspan><tspan x="41.636" y="49">Tbilisi (URSS)</tspan><tspan x="85.28" y="67"></tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="2.052" y="85">La educación ambiental se </tspan><tspan x="21.579" y="103">integra al currículum </tspan><tspan x="61.009" y="121">escolar.</tspan><tspan x="85.28" y="139"></tspan></tspan></text>
+      <text id="Ley_19.300_de_Bases_Generales_del_Medio_Ambiente_Chile_Consigna_la_educación_ambiental_como_un_instrumento_de_gestión_ambiental._" data-name="Ley 19.300 de Bases Generales del Medio Ambiente (Chile)
+
+Consigna la educación ambiental como un instrumento de gestión ambiental.
+" transform="translate(431.441 464.872) rotate(-90)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="25.006" y="13">Ley 19.300 de Bases </tspan><tspan x="25.881" y="31">Generales del Medio </tspan><tspan x="37.406" y="49">Ambiente (Chile)</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="90.323" y="67"></tspan><tspan x="19.831" y="85">Consigna la educación </tspan><tspan x="30.42" y="103">ambiental como un </tspan><tspan x="18.515" y="121">instrumento de gestión </tspan><tspan x="57.548" y="139">ambiental.</tspan></tspan></text>
+      <text id="Política_Nacional_de_Educación_para_el_Desarrollo_Sustentable_Chile_Establece_una_serie_de_principios_objetivos_y_líneas_estratégicas_orientadas_a_lograr_una_educación_que_promueva_el_Desarrollo_Sustentable_en_el_país._" data-name="Política Nacional de Educación para el Desarrollo Sustentable (Chile)
+
+Establece una serie de principios, objetivos y líneas estratégicas orientadas a lograr una educación que promueva el Desarrollo Sustentable en el país.
+" transform="translate(646.684 466.291) rotate(-90)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="27.765" y="13">Política Nacional de </tspan><tspan x="0.91" y="31">Educación para el Desarrollo </tspan><tspan x="30.246" y="49">Sustentable (Chile)</tspan><tspan x="90.495" y="67"></tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="20.628" y="85">Establece una serie de </tspan><tspan x="3.521" y="103">principios, objetivos y líneas </tspan><tspan x="11.786" y="121">estratégicas orientadas a </tspan><tspan x="11.991" y="139">lograr una educación que </tspan><tspan x="18.83" y="157">promueva el Desarrollo </tspan><tspan x="20.495" y="175">Sustentable en el país.</tspan><tspan x="90.495" y="193"></tspan></tspan></text>
+      <text id="Seminario_de_Belgrado_Yugoslavia_Se_publica_la_carta_de_Belgrado_donde_se_establecen_los_objetivos_de_la_educación_ambiental._" data-name="Seminario de Belgrado (Yugoslavia)
+
+Se publica la “carta de Belgrado”, donde se establecen los objetivos de la educación ambiental.
+" transform="translate(126.542 187.065) rotate(-90)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="17.481" y="13">Seminario de Belgrado </tspan><tspan x="49.58" y="31">(Yugoslavia)</tspan><tspan x="88.948" y="49"></tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="20.031" y="67">Se publica la “carta de </tspan><tspan x="27.626" y="85">Belgrado”, donde se </tspan><tspan x="4.585" y="103">establecen los objetivos de </tspan><tspan x="14.997" y="121">la educación ambiental.</tspan><tspan x="88.948" y="139"></tspan></tspan></text>
+      <text id="Cumbre_de_la_Tierra_Río_de_Janeiro_Brasil_Aparece_la_Agenda_21_con_un_capítulo_dedicado_al_fomento_de_la_educación_ambiental_como_herramienta_prioritaria_para_alcanzar_el_desarrollo_sustentable._" data-name="Cumbre de la Tierra, Río de Janeiro (Brasil)
+
+Aparece la “Agenda 21” con un capítulo dedicado al fomento de la educación ambiental, como herramienta prioritaria para alcanzar el desarrollo sustentable.
+" transform="translate(309.023 176.979) rotate(-90)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="7.792" y="13">Cumbre de la Tierra, Río </tspan><tspan x="25.713" y="31">de Janeiro (Brasil)</tspan><tspan x="83.446" y="49"></tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="10.811" y="67">Aparece la “Agenda 21” </tspan><tspan x="5.328" y="85">con un capítulo dedicado </tspan><tspan x="33.239" y="103">al fomento de la </tspan><tspan x="17.202" y="121">educación ambiental, </tspan><tspan x="26.458" y="139">como herramienta </tspan><tspan x="2.556" y="157">prioritaria para alcanzar el </tspan><tspan x="12.383" y="175">desarrollo sustentable.</tspan></tspan></text>
+      <text id="Cumbre_de_Johannesburgo_sobre_el_Desarrollo_Sostenible_Sudáfrica_La_ONU_decreta_el_entre_2005_y_2015_como_el_Decenio_de_la_Educación_para_el_Desarrollo_Sostenible._" data-name="Cumbre de Johannesburgo sobre el Desarrollo Sostenible (Sudáfrica)
+
+La ONU decreta el entre 2005 y 2015 como el Decenio de la Educación para el Desarrollo Sostenible.
+" transform="translate(524.515 188.899) rotate(-90)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="6.194" y="13">Cumbre de Johannesburgo </tspan><tspan x="32.048" y="33">sobre el Desarrollo </tspan><tspan x="20.967" y="53">Sostenible (Sudáfrica)</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="91.24" y="73"></tspan><tspan x="0.233" y="93">La ONU decreta el entre 2005 </tspan><tspan x="0.23" y="113">y 2015 como el Decenio de la </tspan><tspan x="2.684" y="133">Educación para el Desarrollo </tspan><tspan x="56.753" y="153">Sostenible.</tspan><tspan x="91.24" y="173"></tspan></tspan></text>
+      <text id="Cumbre_de_Desarrollo_Sostenible_Nueva_York_EEUU_La_Asamblea_General_adopta_la_Agenda_2030_para_el_Desarrollo_Sostenible_estableciendo_17_grandes_objetivos._" data-name="Cumbre de Desarrollo Sostenible Nueva York (EEUU)
+
+La Asamblea General adopta la Agenda 2030 para el Desarrollo Sostenible, estableciendo 17 grandes objetivos.
+" transform="translate(742.758 189.484) rotate(-90)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="22.959" y="13">Cumbre de Desarrollo </tspan><tspan x="20.194" y="31">Sostenible Nueva York </tspan><tspan x="69.225" y="49">(EEUU)</tspan><tspan x="91.24" y="67"></tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="1.652" y="85">La Asamblea General adopta </tspan><tspan x="20.078" y="103">la Agenda 2030 para el </tspan><tspan x="23.722" y="121">Desarrollo Sostenible, </tspan><tspan x="11.198" y="139">estableciendo 17 grandes </tspan><tspan x="61.172" y="157">objetivos.</tspan></tspan></text>
+      <text id="_1972" data-name="1972" transform="translate(57.769 224.052)" fill="#264100" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="19">1972</tspan></text>
+      <text id="_1975" data-name="1975" transform="translate(174.227 224.052)" fill="#264100" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="19">1975</tspan></text>
+      <text id="_1977" data-name="1977" transform="translate(276.929 224.052)" fill="#264100" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="19">1977</tspan></text>
+      <text id="_1992" data-name="1992" transform="translate(385.134 224.052)" fill="#264100" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="19">1992</tspan></text>
+      <text id="_1994" data-name="1994" transform="translate(488.753 224.052)" fill="#264100" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="19">1994</tspan></text>
+      <text id="_2002" data-name="2002" transform="translate(590.539 224.052)" fill="#264100" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="19">2002</tspan></text>
+      <text id="_2009" data-name="2009" transform="translate(705.162 224.052)" fill="#264100" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="19">2009</tspan></text>
+      <text id="_2015" data-name="2015" transform="translate(801.446 224.052)" fill="#264100" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="19">2015</tspan></text>
+    </g>
+  </g>
+</svg>
